@@ -192,4 +192,11 @@ If the directory is empty, the Manager must register team members.
 
 ---
 
----
+## 🔗 Project Links
+
+- **GitHub Repository**: [https://github.com/Biswa-source45/Leave-Management-System--Task.git](https://github.com/Biswa-source45/Leave-Management-System--Task.git)
+- **Live Application**: [https://leave-mng-task.vercel.app/](https://leave-mng-task.vercel.app/)
+- **Swagger API Docs**: [https://task-backend-4gwa.onrender.com/docs](https://task-backend-4gwa.onrender.com/docs)
+
+> [!IMPORTANT]
+> **Performance Note**: The backend is hosted on a free-tier service. Please wait **30 seconds** after the first interaction (or login attempt) for the server to spin up and process your credentials.
